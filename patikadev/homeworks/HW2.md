@@ -1,3 +1,4 @@
+Perform the following query scenarios on the dvdrental sample database.<br>
 - List all columns from the film table where replacement_cost is greater than or equal to 12.99 and less than 16.99. (Use the BETWEEN … AND … structure.)<br>
 `SELECT * FROM film 
 WHERE replacement_cost BETWEEN 12.99 AND 16.99;`
