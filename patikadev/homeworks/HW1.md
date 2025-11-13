@@ -1,4 +1,4 @@
- -List the data in the title and description columns from the film table.<br>
+- List the data in the title and description columns from the film table.<br>
 `SELECT title, description FROM film;`
 <img width="1578" height="968" alt="image" src="https://github.com/user-attachments/assets/9dac89b0-b2af-44fe-9efd-476ad3be52fb" />
 
