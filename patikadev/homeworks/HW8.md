@@ -16,6 +16,7 @@ email VARCHAR(100))`
 - Perform 5 UPDATE operations that modify other columns based on each of the existing columns.<br>
 - 1<br>
 <img width="1558" height="971" alt="image" src="https://github.com/user-attachments/assets/b8f0d1f2-10cc-4518-b4f2-0cb4cede0a70" />
+
 - 2<br>
 <img width="1575" height="973" alt="image" src="https://github.com/user-attachments/assets/360b93f0-eb16-46ba-8bc1-6b76225ea44d" />
 
